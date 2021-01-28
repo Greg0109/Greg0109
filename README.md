@@ -15,7 +15,7 @@ I am currently working on [Boardy](https://github.com/greg0109/BoardyServer), my
 
 ## You can find me at:
 - [Twitter](https://twitter.com/greg_0109)
-- [e-Mail](greg.rabago@gmail.com)
+- e-Mail: greg.rabago@gmail.com
 
 <!--
 **Greg0109/Greg0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
