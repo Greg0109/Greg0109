@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+My name is Greg, I am a full stack developer interested mostly in Objective C and Python (as my most popular tools prove).
+
+I am currently working on [Boardy](https://github.com/greg0109/BoardyServer), my most ambitious project so far which is still growing.
+
+## Lenguages I know:
+- Objective C
+- Python
+- Swift
+- MatLab
+- Bash
+- HTML
+- CSS
+
+## You can find me at:
+- [Twitter](https://twitter.com/greg_0109)
+- [e-Mail](greg.rabago@gmail.com)
+
 <!--
 **Greg0109/Greg0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
