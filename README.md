@@ -4,7 +4,7 @@ My name is Greg, I am a full stack developer interested mostly in Objective C an
 
 I am currently working on [Boardy](https://github.com/greg0109/BoardyServer), my most ambitious project so far which is still growing.
 
-## Lenguages I know:
+## Languages I know:
 - Objective C
 - Python
 - Swift
