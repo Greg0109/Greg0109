@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="#stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greg0109&hide=Makefile&theme=react">
 </a>
-<br>
+
 <a href="#stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=greg0109&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="Greg0109's GitHub Stats">
 </a>
