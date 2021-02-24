@@ -1,3 +1,6 @@
+<img src='assets/banner.gif' style='width: 100%'>
+
+
 ### Hi there 👋
 
 My name is Greg, I am a full stack developer interested mostly in Objective C and Python (as my most popular tools prove).
@@ -34,10 +37,7 @@ Here are some ideas to get you started:
 -->
 
 ## Stats:
-<a href="#stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greg0109&hide=Makefile&theme=react">
-</a>
-
-<a href="#stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greg0109&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="Greg0109's GitHub Stats">
+<a href="#stats" align="center" style="width:100%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greg0109&hide=Makefile&theme=react" style='display: width: 50%; height: 170px'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greg0109&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="Greg0109's GitHub Stats" style='width: 50%'>
 </a>
