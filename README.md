@@ -11,6 +11,7 @@ I am currently working on [Boardy](https://github.com/greg0109/BoardyServer), my
 - Objective C
 - Python
 - Ruby
+- Rails
 - Swift
 - MatLab
 - Bash
